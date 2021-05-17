@@ -1,0 +1,15 @@
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\bin\Debug\ShittySpotify.exe.config
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\bin\Debug\ShittySpotify.exe
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\bin\Debug\ShittySpotify.pdb
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\bin\Debug\Interop.WMPLib.dll
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.csprojAssemblyReference.cache
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\Interop.WMPLib.dll
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.csproj.ResolveComReference.cache
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.Form1.resources
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.Properties.Resources.resources
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.csproj.GenerateResource.cache
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.csproj.CoreCompileInputs.cache
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.exe
+C:\Users\bmice\OneDrive\Desktop\ShittySpotify\ShittySpotify\obj\Debug\ShittySpotify.pdb
